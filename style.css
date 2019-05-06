@@ -55,6 +55,7 @@ a {
   margin: 20px;
 }
 
-.button {
+.button img {
   padding: 20px;
+  height: 70px;
 }
